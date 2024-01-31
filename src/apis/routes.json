@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://user-auth-native-app-server.vercel.app/api/v1/",
+    "user": {
+        "startPoint": "user",
+        "login": "login"
+    },
+    "task": {
+        "startPoint": "task",
+        "add": "add"
+    }
+}
